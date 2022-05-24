@@ -1,2 +1,2 @@
 # me
-My Zettelkasten
+My Knowledge Exchange Grid
